@@ -21,11 +21,11 @@ info:
 # IMAGE CONFIGURATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 defaults:
   # Favicon
-  favicon: https://cdn.dukedream.top/jm.png
+  favicon: https://gitee.com/christi/pic/blob/master/jm.png
   # Site logo
-  logo: https://cdn.dukedream.top/jm.png
+  logo: https://gitee.com/christi/pic/blob/master/jm.png
   # Site avatar
-  avatar: https://cdn.dukedream.top/wallhaven.png
+  avatar: https://gitee.com/christi/pic/blob/master/wallhaven.png
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -103,9 +103,9 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: https://cdn.dukedream.top/wallhaven-kxlgj6.png # light mode
+    light: https://gitee.com/christi/pic/blob/master/wallhaven-kxlgj6.png # light mode
     #dark: /images/wallhaven-wqery6-dark.webp # dark mode
-    dark: https://cdn.dukedream.top/wallhaven-kxlgj6.png # dark mode
+    dark: https://gitee.com/christi/pic/blob/master/wallhaven-kxlgj6.png # dark mode
   # Home banner title
   title: Christi 随笔
   # Home banner subtitle

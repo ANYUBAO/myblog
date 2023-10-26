@@ -2,7 +2,7 @@
 title: Hello World
 tags: 
   - '开始'
-cover: https://cdn.dukedream.top/wallhaven-kxlgj6.png
+cover: https://gitee.com/christi/pic/blob/master/wallhaven-kxlgj6.png
 sticky: 999
 ---
 
